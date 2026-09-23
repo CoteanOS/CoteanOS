@@ -1,6 +1,7 @@
 # CoteanOS
 
-Salesforce developer moving deeper into ### GenAI, local AI, agents, and ML systems.
+Salesforce developer moving deeper into 
+### GenAI, local AI, agents, and ML systems.
 
 
 I build practical AI projects around:
