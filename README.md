@@ -16,13 +16,17 @@ integrations and backend systems
 
 ## Selected projects
 
-### Sofia — fully local voice/agent system with wake-word detection, Whisper STT, local LLMs, memory, streaming and local TTS.
+### Sofia 
+  fully local voice/agent system with wake-word detection, Whisper STT, local LLMs, memory, streaming and local TTS.
 
-### Mister Puck — ESP32-based AI assistant combining speech recognition, local inference and voice output.
+### Mister Puck 
+  ESP32-based AI assistant combining speech recognition, local inference and voice output.
 
-### Job Agent — autonomous job-search workflow with browser automation, LLM-generated applications, persistent state and human approval.
+### Job Agent 
+  autonomous job-search workflow with browser automation, LLM-generated applications, persistent state and human approval.
 
-### Your Variants — privacy-first genetic variant exploration running sensitive processing locally in the browser.
+### Your Variants 
+  privacy-first genetic variant exploration running sensitive processing locally in the browser.
 
 ## Background
 
