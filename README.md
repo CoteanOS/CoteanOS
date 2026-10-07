@@ -26,7 +26,7 @@ integrations and backend systems
   ESP32-based AI assistant combining speech recognition, local inference and voice output.
 
 ### Job Agent 
-  autonomous job-search workflow with browser automation, LLM-generated applications, persistent state and human approval.
+browser-automation pipeline with anti-bot handling, async orchestration, persistent state in SQLite, and a Telegram approval step before anything is submitted.
 
 ### Your Variants 
   privacy-first genetic variant exploration running sensitive processing locally in the browser.
@@ -35,4 +35,4 @@ integrations and backend systems
 ## Background
 
 
-Previously focused heavily on Salesforce architecture, integrations and automation. Now applying that systems/integration experience to Python and GenAI engineering.
+Previously focused heavily on Salesforce architecture, integrations and automation. Now applying that systems/integration experience to Python and GenAI engineering. Interested in financial risk and mitigation solutions.
