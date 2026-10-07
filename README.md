@@ -3,7 +3,7 @@
 Salesforce developer moving deeper into GenAI, local AI, agents, and ML systems.
 
 
-I build practical AI projects around:
+I design and build practical AI projects around:
 
 local LLMs and voice agents
 
