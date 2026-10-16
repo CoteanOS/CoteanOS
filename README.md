@@ -1,38 +1,28 @@
 # CoteanOS
 
-Salesforce developer moving deeper into GenAI, local AI, agents, and ML systems.
+Senior Salesforce Developer. Seven years building on the platform with Apex, Lightning Web Components, Flows, integrations and data model design.
+
+This GitHub is what I build in my own time, mostly local AI, agents and privacy-first tools. It keeps me hands-on with Python and LLMs, and it complements my Salesforce work. Both come down to the same things: integrations, clean data, and controlling what a system is allowed to change.
 
 
-I design and build practical AI projects around:
-
-local LLMs and voice agents
-
-agentic workflows and automation
-
-privacy-first applications
-
-edge AI / embedded hardware
-
-integrations and backend systems
-
-
-## Selected projects
+## Projects
 
 
 ### Sofia 
-  fully local voice/agent system with wake-word detection, Whisper STT, local LLMs, memory, streaming and local TTS.
+  Fully local voice and agent system with wake-word detection, Whisper STT, local LLMs, memory, streaming and local TTS.
 
 ### Mister Puck 
   ESP32-based AI assistant combining speech recognition, local inference and voice output.
 
 ### Job Agent 
-browser-automation pipeline with anti-bot handling, async orchestration, persistent state in SQLite, and a Telegram approval step before anything is submitted.
+  Browser-automation pipeline with anti-bot handling, async orchestration, persistent state in SQLite, and a Telegram approval step before anything is submitted.
 
 ### Your Variants 
-  privacy-first genetic variant exploration running sensitive processing locally in the browser.
+  Privacy-first genetic variant exploration, running sensitive processing locally in the browser.
 
 
-## Background
+## What I work with
 
+Salesforce: Apex, LWC, Flows, SOQL, Platform Events, REST and SOAP APIs, Gearset
 
-Previously focused heavily on Salesforce architecture, integrations and automation. Now applying that systems/integration experience to Python and GenAI engineering. Interested in financial risk and mitigation solutions.
+Own projects: Python, local LLMs, agents, MCP, SQLite, ESP32
