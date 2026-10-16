@@ -23,6 +23,6 @@ This GitHub is what I build in my own time, mostly local AI, agents and privacy-
 
 ## What I work with
 
-Salesforce: Apex, LWC, Flows, SOQL, Platform Events, REST and SOAP APIs, Gearset
+Salesforce: Apex, Flows, SOQL, Platform Events, REST and SOAP APIs, Gearset
 
 Own projects: Python, local LLMs, agents, MCP, SQLite, ESP32
