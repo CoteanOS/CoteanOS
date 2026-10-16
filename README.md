@@ -1,6 +1,6 @@
 # CoteanOS
 
-Senior Salesforce Developer. Seven years building on the platform with Apex, Lightning Web Components, Flows, integrations and data model design.
+Senior Salesforce Developer. Seven years building on the platform with Apex, Flows, integrations and data model design.
 
 This GitHub is what I build in my own time, mostly local AI, agents and privacy-first tools. It keeps me hands-on with Python and LLMs, and it complements my Salesforce work. Both come down to the same things: integrations, clean data, and controlling what a system is allowed to change.
 
