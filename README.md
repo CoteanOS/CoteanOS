@@ -1,28 +1,27 @@
-# CoteanOS
+# Coteanos
 
-Senior Salesforce Developer. Seven years building on the platform with Apex, Flows, integrations and data model design.
-
-This GitHub is what I build in my own time, mostly local AI, agents and privacy-first tools. It keeps me hands-on with Python and LLMs, and it complements my Salesforce work. Both come down to the same things: integrations, clean data, and controlling what a system is allowed to change.
-
+I like building things end to end, whatever the stack. Backend services, AI agents, web apps and small devices. I pick the tool that fits the problem and learn what I need along the way.
 
 ## Projects
 
+**[Sofia](https://github.com/CoteanOS/project-sofia)**
+A local voice and agent system: speech to text, local language models, tool use, memory and a confirmation step before anything is changed.
 
-### Sofia 
-  Fully local voice and agent system with wake-word detection, Whisper STT, local LLMs, memory, streaming and local TTS.
+**[market-tape](https://github.com/CoteanOS/market-tape)**
+A Rust service that ingests live market data, detects and repairs gaps, and stores everything in PostgreSQL with monitoring in Grafana.
 
-### Mister Puck 
-  ESP32-based AI assistant combining speech recognition, local inference and voice output.
+**[Your Variants](https://github.com/CoteanOS/your-variants)**
+A privacy-first web app that reads a DNA file in the browser and never uploads it.
 
-### Job Agent 
-  Browser-automation pipeline with anti-bot handling, async orchestration, persistent state in SQLite, and a Telegram approval step before anything is submitted.
+**[Mister Puck](https://github.com/CoteanOS/mister-puck)**
+A voice assistant on an ESP32 board, with speech recognition and speech output running locally.
 
-### Your Variants 
-  Privacy-first genetic variant exploration, running sensitive processing locally in the browser.
+**[Job Agent](https://github.com/CoteanOS/job-agent)**
+An automation pipeline on a Raspberry Pi that drafts job applications and waits for approval on Telegram before submitting.
 
+**[Pozitron](https://github.com/CoteanOS/pozitron)**
+A small handheld robot with sensors, a display and a 3D printed case.
 
-## What I work with
+## Things I work with
 
-Salesforce: Apex, Flows, SOQL, Platform Events, REST and SOAP APIs, Gearset
-
-Own projects: Python, local LLMs, agents, MCP, SQLite, ESP32
+Python, Rust, JavaScript, SQL, PostgreSQL, SQLite, local LLMs, ESP32, Raspberry Pi, Docker, 3D printing.
