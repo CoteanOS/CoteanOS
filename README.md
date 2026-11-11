@@ -24,4 +24,4 @@ A small handheld robot with sensors, a display and a 3D printed case.
 
 ## Things I work with
 
-Python, Rust, JavaScript, SQL, PostgreSQL, SQLite, local LLMs, ESP32, Raspberry Pi, Docker, 3D printing.
+Python, Rust, C++, Apex, JavaScript, SQL, PostgreSQL, SQLite, local LLMs, ESP32, Raspberry Pi, Docker, 3D printing.
